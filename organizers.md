@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Organizers
-permalink: /organizers/
+title: Organisers
+permalink: /organisers/
 ---
 <table>
   <tr>
