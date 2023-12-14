@@ -60,7 +60,7 @@ Submission can be in the form of long papers of 8 pages and shorter papers of 4 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone.
 
 If you have any questions, please contact us via email:<br>
-[xx@xx.com](mailto:xx@xx.com)
+[ai-ads-24-chairs@googlegroups.com](mailto:ai-ads-24-chairs@googlegroups.com)
 
 <!-- ### Sponsorship
 *WWW 2024 xx Workshop is generously sponsored by xx.*
