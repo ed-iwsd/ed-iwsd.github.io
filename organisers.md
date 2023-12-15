@@ -38,11 +38,4 @@ permalink: /organisers/
       Edinburgh
     </td>
   </tr> 
-  <tr>
-    <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/Eleni_Mangina.jpg?raw=true"  alt="1" width = 150px height = 155px ><br />
-      <a href="https://people.ucd.ie/eleni.mangina">Eleni Mangina</a><br />
-      UCD
-    </td>
-  </tr> 
 </table>
