@@ -47,7 +47,7 @@ Submission can be in the form of long papers of 8 pages and shorter papers of 4 
 <!-- by [contacting the workshop committee](mailto:xx@xx.com). -->
 <!-- We sincerely appreciate the sponsorship from xx on our workshop. -->
 
-**Submission site via Easychair: [The Web Conference 2024 Workshop](https://easychair.org/conferences/submissions?a=31988147)** <br>
+**Submission site via Easychair: [The Web Conference 2024 Workshop](https://easychair.org/my/conference?conf=thewebconf2024_workshops)** <br>
 
 **Submission deadline:** 5 February 2024 <br>
 
