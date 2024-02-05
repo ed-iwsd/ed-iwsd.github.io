@@ -49,7 +49,7 @@ Submission can be in the form of long papers of 8 pages and shorter papers of 4 
 
 **Submission site via Easychair: [The Web Conference 2024 Workshop](https://easychair.org/my/conference?conf=thewebconf2024_workshops)** <br>
 
-**Submission deadline:** 5 February 2024 <br>
+**Submission deadline:** 12 February 2024 <br>
 
 **Author notification:** 4 March 2024
 
