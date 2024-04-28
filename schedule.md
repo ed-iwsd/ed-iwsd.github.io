@@ -4,54 +4,28 @@ title: Schedule
 permalink: /schedule/
 ---
 
-
 The Workshop will be held in person on Monday, 13 May 2024, in Singapore, as a part of [the Web Conference 2024](https://www2024.thewebconf.org/). 
 
-**TBD**
+<!-- **TBD** -->
 
-<!-- The Web Conference 2024 homepage for our workshop is [here](https://xx). The following schedule is based on Anywhere on Earth (AoE). -->
+The Web Conference 2024 homepage for our workshop is [here]([https://ai-ads.github.io/web2024/]). The following schedule is based on Anywhere on Earth (AoE).
 
-<!-- 9:00--9:15AM: **Opening remarks**
+9:00--9:05AM: **Opening remark: Online advertising in the AI era** Fengxiang He, on-site
 
-9:15--9:45AM: **Invited talk 1:** Person 1
-Paper Title XXX
+9:05--9:35AM: **Invited talk:** Su Lin Blodgett, virtual
+Paper Title TBC
 
-9:45--10:15AM: **Invited talk 2:** Person 2
-Paper Title XXX
+9:35--10:05AM: **Invited talk:** Song Zuo, on-site
+Paper Title “Automation in Online Advertising Markets: Auctions and Efficiency”
 
-10:15--10:45PM: **Contributed talks 1**
-* **(Outstanding)** Paper Title XXX
-* Paper Title 1
-* Paper Title 2
+10:35--11:05AM: **Invited talk:** Rishabh Mehrotra, virtual
+Paper Title TBC
 
-10:45--11:15AM: **Invited talk 3:** Person 3
-Paper Title XXX
+11:05--11:35AM: **Invited talk:** Olivier Jeunen, virtual
+Paper Title “Learning to Value, Bid for, and Auction Online Advertisements”
 
-11:15--11:30PM: **Coffee Break**
+12:00--12.20PM: **Contributes talk:** Yuzhu Chen, virtual
+Paper Title “Enhancing Diffusion Models through Intelligent Time-Stepping Optimization”
 
-11:30AM--1:00PM: [**Poster Session 1**]
-
-1:00--1:30PM: **Invited talk 4:** Person 4
-Paper Title XXX
-
-1:30--2:00PM: **Invited talk 5:** Person 5
-Paper Title XXX
-
-
-2:00--2:30PM: **Contributed talks 2**
-* **(Outstanding)** Paper Title XXX
-* Paper Title 1
-* Paper Title 2
-
-2:30--3:00PM: **Invited talk 6:** Person 6
-Paper Title XXX
-
-3:00--3:15PM: **Closing remarks**
-
-3:15--4:45PM: [**Poster Session 2**]
- -->
-
-
-
-<!-- If you have any questions, please contact us via email:<br>
-[xx@xx.com](mailto:xx@xx.com) -->
+If you have any questions, please contact us via email:<br>
+[yyz82619962@gmail.com](mailto:yyz82619962@gmail.com)
