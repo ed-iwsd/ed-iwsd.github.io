@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Speakers
-permalink: /speakers/
+permalink: /speakers/ 
 ---
 
 <table>
