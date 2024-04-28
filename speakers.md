@@ -9,7 +9,7 @@ permalink: /speakers/
     <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/Fengxiang_He.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
       <a href="https://fengxianghe.github.io/">Fengxiang He</a><br />
-      University of Edinburgh
+      Edinburgh
     </td>
     <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/Su_Lin_Blodgett.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
@@ -31,7 +31,7 @@ permalink: /speakers/
     <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/olivier.png?raw=true"  alt="1" width = 150px height = 160px ><br />
       <a href="https://olivierjeunen.github.io/">Olivier Jeunen</a><br />
-      ShareChat in UK
+      ShareChat
     </td>
   </tr> 
 </table>
