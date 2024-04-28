@@ -28,4 +28,4 @@ Paper Title “Learning to Value, Bid for, and Auction Online Advertisements”
 Paper Title “Enhancing Diffusion Models through Intelligent Time-Stepping Optimization”
 
 If you have any questions, please contact us via email:<br>
-[yyz82619962@gmail.com](mailto:yyz82619962@gmail.com)
+[ai-ads-24-chairs@googlegroups.com](mailto:ai-ads-24-chairs@googlegroups.com)
