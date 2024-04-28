@@ -20,7 +20,7 @@ The Web Conference 2024 homepage for our workshop is [here](https://ai-ads.githu
 
 11:05--11:35AM **Invited talk:** Olivier Jeunen, virtual, "Learning to Value, Bid for, and Auction Online Advertisements"
 
-12:00--12.20PM **Contributes talk:** Yuzhu Chen, virtual, "Enhancing Diffusion Models through Intelligent Time-Stepping Optimization"
+12:00--12.20PM **Contributed talk:** Yuzhu Chen, virtual, "Enhancing Diffusion Models through Intelligent Time-Stepping Optimization"
 
 If you have any questions, please contact us via email:<br>
 [ai-ads-24-chairs@googlegroups.com](mailto:ai-ads-24-chairs@googlegroups.com)
