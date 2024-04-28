@@ -16,6 +16,8 @@ The Web Conference 2024 homepage for our workshop is [here](https://ai-ads.githu
 
 9:35--10:05AM **Invited talk:** Song Zuo, on-site, "Automation in Online Advertising Markets: Auctions and Efficiency"
 
+10:05-10:35AM **Invited talk:** Maziar Gomrokchi, on-site, TBC
+
 10:35--11:05AM **Invited talk:** Rishabh Mehrotra, virtual, TBC
 
 11:05--11:35AM **Invited talk:** Olivier Jeunen, virtual, "Learning to Value, Bid for, and Auction Online Advertisements"
