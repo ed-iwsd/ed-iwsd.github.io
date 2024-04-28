@@ -4,12 +4,12 @@ title: Speakers
 permalink: /speakers/
 ---
 
-<!-- <table>
+<table>
   <tr>
     <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/Eleni_Mangina.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
-      <a href="https://people.ucd.ie/eleni.mangina">Eleni Mangina</a><br />
-      UCD
+      <img src="https://github.com/AI-Ads/web2024/blob/main/images/Fengxiang_He.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
+      <a href="https://fengxianghe.github.io/">Fengxiang He</a><br />
+      University of Edinburgh
     </td>
     <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/Su_Lin_Blodgett.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
@@ -17,28 +17,21 @@ permalink: /speakers/
       Microsoft Research
     </td>
     <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/xx.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
-      <a href="xx">Person 3</a><br />
-      Institute 3
+      <img src="https://github.com/AI-Ads/web2024/blob/main/images/zuo.png?raw=true"  alt="1" width = 150px height = 160px ><br />
+      <a href="https://sites.google.com/view/songzuo">Song Zuo</a><br />
+      Google Research
     </td>
   </tr> 
   <tr>
     <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/xx.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
-      <a href="xx">Person 4</a><br />
-      Institute 4
+      <img src="https://github.com/AI-Ads/web2024/blob/main/images/Rishabh_pic2.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
+      <a href="https://rishabhmehrotra.com/">Rishabh Mehrotra</a><br />
+      Sourcegraph in London
     </td>
     <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/xx.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
-      <a href="xx">Person 5</a><br />
-      Institute 5
-    </td>
-    <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/xx.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
-      <a href="xx">Person 6</a><br />
-      Institute 6
+      <img src="https://github.com/AI-Ads/web2024/blob/main/images/olivier.png?raw=true"  alt="1" width = 150px height = 160px ><br />
+      <a href="https://olivierjeunen.github.io/">Olivier Jeunen</a><br />
+      ShareChat in UK
     </td>
   </tr> 
-</table> --> 
-
-**TBD**
+</table>
