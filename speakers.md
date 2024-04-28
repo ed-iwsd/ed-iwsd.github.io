@@ -7,11 +7,6 @@ permalink: /speakers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/AI-Ads/web2024/blob/main/images/Fengxiang_He.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
-      <a href="https://fengxianghe.github.io/">Fengxiang He</a><br />
-      Edinburgh
-    </td>
-    <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/Su_Lin_Blodgett.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
       <a href="https://sblodgett.github.io/">Su Lin Blodgett</a><br />
       Microsoft Research
@@ -20,6 +15,11 @@ permalink: /speakers/
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/zuo.png?raw=true"  alt="1" width = 150px height = 160px ><br />
       <a href="https://sites.google.com/view/songzuo">Song Zuo</a><br />
       Google Research
+    </td>
+     <td> 
+      <img src="https://github.com/AI-Ads/web2024/blob/main/images/Maziar-c.png?raw=true"  alt="1" width = 150px height = 160px ><br />
+      <a href="https://maziarg.github.io/">Maziar Gomrokchi</a><br />
+      Elementera
     </td>
   </tr> 
   <tr>
