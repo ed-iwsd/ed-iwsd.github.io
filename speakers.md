@@ -26,7 +26,7 @@ permalink: /speakers/
     <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/Rishabh_pic2.jpg?raw=true"  alt="1" width = 150px height = 160px ><br />
       <a href="https://rishabhmehrotra.com/">Rishabh Mehrotra</a><br />
-      Sourcegraph in London
+      Sourcegraph
     </td>
     <td> 
       <img src="https://github.com/AI-Ads/web2024/blob/main/images/olivier.png?raw=true"  alt="1" width = 150px height = 160px ><br />
