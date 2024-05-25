@@ -6,7 +6,7 @@ permalink: /schedule/
 
 The Workshop will be held in person on Monday, 13 May 2024, in Singapore, as a part of [the Web Conference 2024](https://www2024.thewebconf.org/). 
 
-<!-- **TBD** -->
+<!-- **TBD** --> 
 
 The Web Conference 2024 homepage for our workshop is [here](https://ai-ads.github.io/web2024/). The following schedule is based on Anywhere on Earth (AoE).
 
