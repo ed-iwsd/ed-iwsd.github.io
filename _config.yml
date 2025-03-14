@@ -3,8 +3,8 @@ title: AI Driven Online Advertising
 subtitle: Market Design, Generative AI, and Ethics
 description: 'The Web Conference 2024 Workshop'
 domain: ai-ads.github.io
-url: https://ai-ads.github.io
-baseurl: /web2024
+url: "https://ed-iwsd.github.io"
+baseurl: 
 
 author:
   name: 'Hang Yu, Yuzhang Yang'
