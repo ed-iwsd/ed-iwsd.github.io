@@ -1,2 +1,2 @@
 # AI Driven Online Advertising
-"AI Driven Online Advertising: Market Design, Generative AI, and Ethics". The Web Conference 2024 Workshop
+"ECFI-GAIL International Workshop on Synthetic Data". June 23, 2025. Edinburgh UK
