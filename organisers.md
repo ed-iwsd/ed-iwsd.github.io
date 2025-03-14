@@ -6,7 +6,7 @@ permalink: /organisers/
 <table>
   <tr>
     <td> 
-      <img src="https://github.com/ed-iwsd/blob/main/images/Fengxiang_He.jpg?raw=true"  alt="1" width = 150px height = 155px ><br />
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Fengxiang_He.jpg?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://fengxianghe.github.io/">Fengxiang He</a><br />
       Edinburgh
     </td>
