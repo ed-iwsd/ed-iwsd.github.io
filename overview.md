@@ -7,9 +7,7 @@ permalink: /overview/
 <!-- **Date and time:** May 13, time x:xxam-x:xxpm AoE (see [schedule](https://xx.github.io/schedule/)) <br>
 The workshop will be held **virtually** at [https://xx.cc/virtual/xx/workshop/xx](https://xx.cc/virtual/xx/workshop/xx). The full recorded workshop will be open to general public some time later after the xx conference. If you would like to participate, you need to [register the xx ticket](https://xx.cc/Conferences/xx) first. -->
 
-
-
-This workshop aims to create a vibrant forum gathering researchers, developers, users, industry partners, ventures, policymakers, and other stakeholders to discuss the responsible, ethical use of AI in online advertising. It will cover the full spectrum of interactions between responsible & ethical AI, economics, algorithmic game theory, mechanism design, generative AI, e-commerce, ethics, law, etc. We seek to empower robust discussion and collaboration around advancing AI in online advertising.
+Welcome to ECFI-GAIL International Workshop on Synthetic Data (IWSD 2025)! This workshop brings together researchers, industry partners, policymakers, and other stakeholders to explore the potential of synthetic data in addressing critical data access challenges. Join us to share insights, exchange novel ideas, highlight emerging opportunities, and collaboratively define future research directions for advancing synthetic data technologies and their impactful applications.
 
 <!-- ### Scope and Topics
 The workshop invites submissions on all topics in AI driven online advertising, with emphasis on areas in the following unexhausted list. 

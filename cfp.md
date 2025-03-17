@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Posters
+title: Call for Talks and Posters
 permalink: /cfp/
 ---
 
@@ -8,17 +8,15 @@ permalink: /cfp/
 
 <!-- and for **the camera ready submission**, which has the correct notice at the first page of your paper. Please use the option `\usepackage[final]{xx}` in your main text file. Please **upload your camera ready version via making a revision at OpenReview**.  -->
 
-We welcome contributions on a broad range of Generative AI topics, including (but not limited to):  
+We welcome contributions on a broad range of Synthetic Data topics, including (but not limited to):  
 
-- Probabilistic Logic and Deep Learning 
-- Synthetic Data for Privacy-Preserving AI
-- Multi-Modal Generative AI for Synthetic Data  
-- Real-World Applications of Synthetic Data in Finance and Healthcare
+- Synthetic data methods for model training and evaluation
+- Assessment of risks and limitations of synthetic data
+- Evaluation of synthetic data quality  
+- Leveraging synthetic data to address privacy, fairness, and safety concerns
+- Real-World applications of synthetic data (e.g., in finance, education or healthcare)
 
-
-
-
-Posters will need to be A1 size, portrait (not landscape) and must be submitted in PDF format.
+Posters will need to be A1 size 23.4"w x 33.1"h (W 59.4 x H 89.1 cm) size, portrait (not landscape) and must be submitted in PDF format. Outstanding posters will be invited for a talk.
 <!-- ~~8~~ 9 pages (excluding references and supplementary materials).  -->
 <!--**6 presented by oral talks.** -->
 <!--**We will select xx papers for short spotlight presentations and 2 papers for the outstanding paper.**-->
@@ -27,16 +25,18 @@ Posters will need to be A1 size, portrait (not landscape) and must be submitted 
 
 **Submission site via openreview: [Edinburgh Workshop on Synthetic Data](https://easychair.org/my/conference?conf=thewebconf2024_workshops)** <br>
 
-**Submission deadline:** TBD <br>
+**Abstract registration deadline:** May 10, 2025, 23:59 AOE<br>
 
-**Author notification:** TBD
+**Author notification:** May 25, 2025, AOE<br>
 
-**Workshop:** TBD<br>
+**Submission deadline:** June 17, 2025, 23:59 AOE<br>
+
+**Workshop:** June 25, 2025, Edinburgh <br>
 
 All submission deadlines are end-of-day in the Anywhere on Earth (AoE) time zone. If your poster is accepted, your poster will be displayed in a poster session during the workshop. At least one author for each accepted poster must attend the workshop since you will be expected to present your poster at the time set aside for poster presentations.
 
 If you have any questions, please contact us via email:<br>
-[ai-ads-24-chairs@googlegroups.com](mailto:ai-ads-24-chairs@googlegroups.com)
+[synthetic.data.research@outlook.com](mailto:synthetic.data.research@outlook.com)
 
 <!-- ### Sponsorship
 *WWW 2024 xx Workshop is generously sponsored by xx.*
