@@ -11,12 +11,12 @@ permalink: /organisers/
       Edinburgh
     </td>
     <td> 
-      <img src="https://github.com/ed-iwsd/blob/main/images/Mengnan_Du.jpg?raw=true"  alt="1" width = 150px height = 155px ><br />
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Gbenga_Ibikunle.jpg?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://www.business-school.ed.ac.uk/staff/gbenga-ibikunle">Gbenga Ibikunle</a><br />
       Edinburgh
     </td>
     <td> 
-      <img src="https://github.com/ed-iwsd/blob/main/images/Aris_Filos-Ratsikas.jpeg?raw=true"  alt="1" width = 150px height = 155px ><br />
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Filippo_Menolascina.jpg?raw=true"  alt="1" width = 150px height = 155px ><br />
       <a href="https://edwebprofiles.ed.ac.uk/profile/filippo-menolascina">Filippo Menolascina</a><br />
       Edinburgh
     </td>
