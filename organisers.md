@@ -4,7 +4,7 @@ title: Organisers
 permalink: /organisers/
 ---
 
-<!--
+
 <table>
   <tr>
     <td> 
@@ -25,12 +25,14 @@ permalink: /organisers/
   </tr> 
 </table>
 
--->
+
+
+<!--
 <!-- Organisers Section -->
+<!--
 <h1>Organisers</h1>
 <div style="display: flex; gap: 30px; justify-content: center; align-items: flex-start;">
-  
-  <!-- 每位组织者的卡片容器 -->
+
   <div style="text-align: center;">
     <div style="width: 150px; height: 155px; overflow: hidden; border-radius: 8px;">
       <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Fengxiang_He.jpg?raw=true"
@@ -62,3 +64,4 @@ permalink: /organisers/
   </div>
 
 </div>
+-->
