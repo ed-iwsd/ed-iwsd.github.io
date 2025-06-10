@@ -20,6 +20,11 @@ permalink: /organisers/
       <a href="https://edwebprofiles.ed.ac.uk/profile/filippo-menolascina">Filippo Menolascina</a><br />
       Edinburgh
     </td>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Zheng_Xu.jpeg?raw=true"  alt="1" width = 150px height = 155px ><br />
+      <a href="https://research.google/people/106689/?&type=google">Filippo Menolascina</a><br />
+      Edinburgh
+    </td>
   </tr> 
 </table>
 
