@@ -3,11 +3,6 @@ layout: post
 title: Schedule
 permalink: /schedule/
 ---
-
-The Workshop will be held in person on 25 June, 2025, in Edinburgh. 
-
-## **IWSD Event Schedule**
-
 **Date:** 25 June, 2025  
 **Time:** 10:00 AM – 5:00 PM
 
@@ -17,11 +12,11 @@ The Workshop will be held in person on 25 June, 2025, in Edinburgh.
 |------------------|----------------------------------|
 | 10:00 – 10:30     | Registration and Tea            |
 | 10:30 – 10:40     | Opening Remarks                 |
-| 10:40 – 11:20     | Talk 1                          |
-| 11:20 – 12:00     | Talk 2                          |
+| 10:40 – 11:20     | **Talk 1**                          |
+| 11:20 – 12:00     | **Talk 2**                          |
 | 12:00 – 13:00     | Lunch Break                     |
-| 13:00 – 13:40     | Talk 3                          |
-| 13:40 – 14:20     | Talk 4                          |
+| 13:00 – 13:40     | **Talk 3**                         |
+| 13:40 – 14:20     | **Talk 4**                       |
 | 14:20 – 14:50     | Tea Break                       |
 | 14:50 – 15:30     | **Panel Discussion**            |
 | 15:30 – 17:00     | Drink Reception                 |
