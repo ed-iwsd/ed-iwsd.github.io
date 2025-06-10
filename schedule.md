@@ -23,4 +23,4 @@ permalink: /schedule/
 
 ---
 
-**Note:** Schedule is subject to change. Final details will be communicated by the organizing team.
+**Note:** Schedule is subject to change. Final details will be communicated by the organising team.
