@@ -61,5 +61,15 @@ permalink: /organisers/
     Edinburgh
   </div>
 
+  <div style="text-align: center;">
+    <div style="width: 150px; height: 155px; overflow: hidden; border-radius: 8px;">
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Zheng_Xu.jpeg?raw=true"
+           alt="Zheng Xu"
+           style="width: 100%; height: 100%; object-fit: cover;" />
+    </div>
+    <a href="https://research.google/people/106689/?&type=google">Zheng Xu</a><br />
+    Edinburgh
+  </div>
+
 </div>
 -->
