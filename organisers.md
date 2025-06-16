@@ -3,6 +3,53 @@ layout: post
 title: Organisers
 permalink: /organisers/
 ---
+<!--
+<h2>Organisers</h2>
+<table>
+  <tr>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Fengxiang_He.jpg?raw=true"  alt="Fengxiang He" width="150px" height="155px"><br />
+      <a href="https://fengxianghe.github.io/">Fengxiang He</a><br />
+      Edinburgh
+    </td>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Gbenga_Ibikunle.jpg?raw=true"  alt="Gbenga Ibikunle" width="150px" height="155px"><br />
+      <a href="https://www.business-school.ed.ac.uk/staff/gbenga-ibikunle">Gbenga Ibikunle</a><br />
+      Edinburgh
+    </td>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Filippo_Menolascina.png?raw=true"  alt="Filippo Menolascina" width="150px" height="155px"><br />
+      <a href="https://edwebprofiles.ed.ac.uk/profile/filippo-menolascina">Filippo Menolascina</a><br />
+      Edinburgh
+    </td>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Zheng_Xu.jpeg?raw=true"  alt="Zheng Xu" width="150px" height="155px"><br />
+      <a href="https://research.google/people/106689/?&type=google">Zheng Xu</a><br />
+      USA
+    </td>
+  </tr> 
+</table>
+
+<br />
+
+<h2>Manager & Assistant</h2>
+<table>
+  <tr>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Nadine_Salkeld_new.jpeg?raw=true" alt="Nadine Salkeld" width="150px" height="155px"><br />
+      <a href="https://www.business-school.ed.ac.uk/staff/nadine-salkeld">Nadine Salkeld</a><br />
+      Centre Manager
+    </td>
+    <td> 
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Ye_Wang.jpeg?raw=true" alt="Assistant" width="150px" height="155px"><br />
+      <a href="">Ye Wang</a><br />
+      Location
+    </td>
+  </tr>
+</table>
+-->
+
+
 <table>
   <tr>
     <td> 
@@ -27,8 +74,6 @@ permalink: /organisers/
     </td>
   </tr> 
 </table>
-
-
 
 <!--
 <!-- Organisers Section -->
