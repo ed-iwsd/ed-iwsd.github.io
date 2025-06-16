@@ -8,21 +8,21 @@ permalink: /schedule/
 
 ---
 
-| **Time**               | **Activity**                                                              |
-|------------------------|---------------------------------------------------------------------------|
-| 10:00&nbsp;–&nbsp;10:30 | Registration and Tea                                                     |
-| 10:30&nbsp;–&nbsp;10:40 | Opening Remarks                                                          |
-| 10:40&nbsp;–&nbsp;11:10 | **Talk 1: Daniel Victorino**                                             |
-| 11:10&nbsp;–&nbsp;11:40 | **Talk 2: Raad Khraishi & Devesh Batra**                                 |
-| 11:40&nbsp;–&nbsp;12:10 | Morning Tea Break                                                        |
-| 12:10&nbsp;–&nbsp;12:40 | **Talk 3: George Samakovitis**                                           |
-| 12:40&nbsp;–&nbsp;13:40 | Lunch Break                                                              |
-| 13:40&nbsp;–&nbsp;14:10 | **Talk 4: Shiwei Liu**                                                   |
-| 14:10&nbsp;–&nbsp;14:40 | **Talk 5: Paola Arce**                                                   |
-| 14:40&nbsp;–&nbsp;15:10 | Afternoon Tea Break                                                      |
-| 15:10&nbsp;–&nbsp;15:40 | **Talk 6: Lukasz Szpruch**                                               |
-| 15:40&nbsp;–&nbsp;16:20 | **Panel Discussion** <br>Daniel Victorino, Raad Khraishi / Devesh Batra, Shiwei Liu, Paola Arce, Lukasz Szpruch |
-| 16:20&nbsp;–&nbsp;17:00 | Drink Reception                                                          |
+| **Time**                 | **Activity**                                                              |
+|--------------------------|---------------------------------------------------------------------------|
+| <nobr>10:00&nbsp;–&nbsp;10:30</nobr> | Registration and Tea                                                     |
+| <nobr>10:30&nbsp;–&nbsp;10:40</nobr> | Opening Remarks                                                          |
+| <nobr>10:40&nbsp;–&nbsp;11:10</nobr> | **Talk 1: Daniel Victorino**                                             |
+| <nobr>11:10&nbsp;–&nbsp;11:40</nobr> | **Talk 2: Raad Khraishi & Devesh Batra**                                 |
+| <nobr>11:40&nbsp;–&nbsp;12:10</nobr> | Morning Tea Break                                                        |
+| <nobr>12:10&nbsp;–&nbsp;12:40</nobr> | **Talk 3: George Samakovitis**                                           |
+| <nobr>12:40&nbsp;–&nbsp;13:40</nobr> | Lunch Break                                                              |
+| <nobr>13:40&nbsp;–&nbsp;14:10</nobr> | **Talk 4: Shiwei Liu**                                                   |
+| <nobr>14:10&nbsp;–&nbsp;14:40</nobr> | **Talk 5: Paola Arce**                                                   |
+| <nobr>14:40&nbsp;–&nbsp;15:10</nobr> | Afternoon Tea Break                                                      |
+| <nobr>15:10&nbsp;–&nbsp;15:40</nobr> | **Talk 6: Lukasz Szpruch**                                               |
+| <nobr>15:40&nbsp;–&nbsp;16:20</nobr> | **Panel Discussion**<br>Daniel Victorino, Raad Khraishi / Devesh Batra, Shiwei Liu, Paola Arce, Lukasz Szpruch |
+| <nobr>16:20&nbsp;–&nbsp;17:00</nobr> | Drink Reception                                                          |
 
 
 
