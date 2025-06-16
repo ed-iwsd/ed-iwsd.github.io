@@ -21,7 +21,7 @@ permalink: /schedule/
 | <nobr>14:10&nbsp;–&nbsp;14:40</nobr> | **Talk 5: Paola Arce**                                                   |
 | <nobr>14:40&nbsp;–&nbsp;15:10</nobr> | Afternoon Tea Break                                                      |
 | <nobr>15:10&nbsp;–&nbsp;15:40</nobr> | **Talk 6: Lukasz Szpruch**                                               |
-| <nobr>15:40&nbsp;–&nbsp;16:20</nobr> | **Panel Discussion**<br>Daniel Victorino, Raad Khraishi / Devesh Batra, Shiwei Liu, Paola Arce, Lukasz Szpruch |
+| <nobr>15:40&nbsp;–&nbsp;16:20</nobr> | **Panel Discussion** (Daniel Victorino, Raad Khraishi/Devesh Batra,<br> Shiwei Liu, Paola Arce, Lukasz Szpruch) |
 | <nobr>16:20&nbsp;–&nbsp;17:00</nobr> | Drink Reception                                                          |
 
 
