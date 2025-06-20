@@ -43,12 +43,12 @@ permalink: /organisers/
     <td> 
       <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Ye_Wang.png?raw=true" alt="Assistant" width="150px" height="155px"><br />
       <a href="https://www.linkedin.com/in/ye-wang-b7896a292/?originalSubdomain=uk">Ye Wang</a><br />
-      Assiatant
+      Assistant
     </td>
     <td> 
       
       <a href="https://www.ecfi.business-school.ed.ac.uk/members/research-associates">Shumin Zheng</a><br />
-      Assiatant
+      Assistant
     </td>
   </tr>
 </table>
