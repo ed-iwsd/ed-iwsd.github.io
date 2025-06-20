@@ -32,7 +32,7 @@ permalink: /organisers/
 
 <br />
 
-<h2>Manager & Assistant</h2>
+<h2>Manager & Assistants</h2>
 <table>
   <tr>
     <td> 
