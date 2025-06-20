@@ -3,7 +3,7 @@ layout: post
 title: Organisers
 permalink: /organisers/
 ---
-<!--
+
 <h2>Organisers</h2>
 <table>
   <tr>
@@ -36,20 +36,25 @@ permalink: /organisers/
 <table>
   <tr>
     <td> 
-      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Nadine_Salkeld_new.jpeg?raw=true" alt="Nadine Salkeld" width="150px" height="155px"><br />
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Nadine_Salkeld_new.png?raw=true" alt="Nadine Salkeld" width="150px" height="155px"><br />
       <a href="https://www.business-school.ed.ac.uk/staff/nadine-salkeld">Nadine Salkeld</a><br />
       Centre Manager
     </td>
     <td> 
-      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Ye_Wang.jpeg?raw=true" alt="Assistant" width="150px" height="155px"><br />
-      <a href="">Ye Wang</a><br />
-      Location
+      <img src="https://raw.githubusercontent.com/ed-iwsd/ed-iwsd.github.io/main/images/Ye_Wang.png?raw=true" alt="Assistant" width="150px" height="155px"><br />
+      <a href="https://www.linkedin.com/in/ye-wang-b7896a292/?originalSubdomain=uk">Ye Wang</a><br />
+      Assiatant
+    </td>
+    <td> 
+      
+      <a href="https://www.ecfi.business-school.ed.ac.uk/members/research-associates">Shumin Zheng</a><br />
+      Assiatant
     </td>
   </tr>
 </table>
--->
 
 
+<!--
 <table>
   <tr>
     <td> 
@@ -75,6 +80,7 @@ permalink: /organisers/
   </tr> 
 </table>
 
+-->
 <!--
 <!-- Organisers Section -->
 <!--
